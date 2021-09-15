@@ -2,3 +2,44 @@
   background-image: url(back.jpg);
   background-size: cover;
 }
+#text-one {
+  background: linear-gradient(#ddd6f3, #faaca8);
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  -ms-text-fill-color: transparent;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  -moz-background-clip: border-box;
+  -ms-background-clip: border-box;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -ms-background-clip: text;
+}
+#text {
+  /* background-image: linear-gradient(#70e1f5, #ffd194); */
+  /* background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%); */
+  background: linear-gradient(#c9ffbf, #ffafbd);
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  -ms-text-fill-color: transparent;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  -moz-background-clip: border-box;
+  -ms-background-clip: border-box;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -ms-background-clip: text;
+}
+#text-two {
+  background: linear-gradient(#d3959b, #bfe6ba);
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  -ms-text-fill-color: transparent;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  -moz-background-clip: border-box;
+  -ms-background-clip: border-box;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -ms-background-clip: text;
+}
